@@ -13,6 +13,9 @@ An intelligent tool that analyzes Azure billing data to:
 ## 📦 Repository Contents
 /
 ├── Azure_Cost_Optimization_Advisor.ipynb # Main notebook
+
 ├── azure_cost_data_sample.csv # Sample dataset
+
 ├── requirements.txt # Python dependencies
+
 └── README.md # This file
