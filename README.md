@@ -81,4 +81,8 @@ Cost Management Exports:
 
 5. Sample CSV included
 
+💡 **Resources**
+Azure Pricing Calculator - https://azure.microsoft.com/en-us/pricing/calculator/?cdn=disable
+
+Cost Management Best Practices - https://learn.microsoft.com/en-us/azure/cost-management-billing/costs/cost-mgt-best-practices
 
