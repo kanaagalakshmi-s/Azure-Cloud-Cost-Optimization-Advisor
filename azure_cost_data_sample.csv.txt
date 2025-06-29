@@ -1,0 +1,14 @@
+Date,ServiceName,ServiceResource,ServiceTier,ServiceRegion,CostInBillingCurrency
+2023-11-01,Virtual Machines,VM_Standard_D4s_v3,Standard,East US,12.54
+2023-11-01,Virtual Machines,VM_Standard_B2s,Basic,East US,8.23
+2023-11-01,Storage,Storage_Standard_LRS,Standard,East US,45.21
+2023-11-01,SQL Database,SQL_GP_Gen5_2,General Purpose,East US,28.75
+2023-11-01,App Service,ASP_S1,Standard,East US,15.60
+2023-11-01,Virtual Network,VNet_Default,Standard,East US,2.10
+2023-11-02,Virtual Machines,VM_Standard_D4s_v3,Standard,East US,14.21
+2023-11-02,Storage,Storage_Standard_LRS,Standard,East US,47.85
+2023-11-02,Azure Monitor,Insights,Standard,Global,8.90
+2023-11-02,Load Balancer,LB_Standard,Standard,East US,3.45
+2023-11-03,Virtual Machines,VM_Standard_D8s_v3,Standard,East US,24.67
+2023-11-03,Storage,Storage_Cool_LRS,Cool,East US,12.30
+2023-11-03,Azure Kubernetes Service,AKS_Default,Standard,East US,18.90
