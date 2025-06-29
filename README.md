@@ -33,7 +33,8 @@ Azure Cloud Cost Optimization Advisor/
    cd azure-cost-optimizer
    pip install -r requirements.txt
    jupyter notebook
-Usage:
+
+**Usage:**
 
 Upload your Azure billing CSV
 
@@ -41,7 +42,7 @@ Run all notebook cells
 
 Review optimization recommendations
 
-🔍 Key Features
+🔍 **Key Features**
 Cost Visualization:
 
 1. Daily/Monthly spend trends
@@ -65,12 +66,12 @@ Azure-Specific Insights:
 3. Service tier comparisons
 
 
-📁 Data Requirements
+📁 **Data Requirements**
 Supported Azure billing formats:
 
 Cost Management Exports:
 
-1.CostInBillingCurrency column required
+1. CostInBillingCurrency column required
 
 2. Date range filtering supported
 
